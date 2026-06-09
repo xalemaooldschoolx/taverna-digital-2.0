@@ -1,0 +1,6 @@
+{
+  "name": "Taverna Digital",
+  "description": "Taverna Digital - RPG Companion: Seu gerenciador completo de campanhas de RPG de mesa com fichas, dados, logs e cenários em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
